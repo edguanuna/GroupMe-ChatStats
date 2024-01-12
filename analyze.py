@@ -2,7 +2,7 @@ import requests
 import datetime
 
 # # # Replace 'YOUR_ACCESS_TOKEN' with your actual access token
-access_token = 'yZ4syUrBIOlwFr34d1pCuPSRaItCEUYWzqBnMw7K'
+access_token = ''
 
 def get_group_ids():
     # Make a GET request to the 'me' endpoint
